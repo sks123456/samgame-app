@@ -1,0 +1,15 @@
+/* src/SnakeGame.css */
+.game-board {
+    border: 1px solid black;
+    background-color: #f0f0f0;
+    display: block;
+    margin: 0 auto;
+  }
+  
+  .game-over {
+    text-align: center;
+    font-size: 24px;
+    color: red;
+    margin-top: 20px;
+  }
+  
